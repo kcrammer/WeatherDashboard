@@ -1,0 +1,71 @@
+header{
+    background-color: #333;
+}
+
+h1{
+    color: #efefef;
+    padding: 5px;
+}
+
+input{
+    height: 35px;
+}
+
+.hide{
+    display: none;
+}
+
+.search-section{
+    background-color: #efefef;
+}
+
+.form{
+    padding: 20px;
+}
+
+.form-title{
+    font-weight: bold;
+}
+
+.city-history{
+    padding: 20px;
+}
+
+.old-city {
+    cursor: pointer;
+}
+
+.current-weather{
+    padding: 20px;
+}
+
+/* styles for UV index */
+.uv{
+    padding: 0 5px;
+    border-radius: 3px;
+}
+
+.low{
+    background-color: green;
+    color: white;
+}
+
+.moderate{
+    background-color: yellow;
+}
+.high{
+    background-color: orange;
+}
+.very-high{
+    background-color: red;
+    color: white;
+}
+.extreme{
+    background-color: purple;
+    color: white;
+}
+
+.forecast{
+    background-color: #1e7ed3;
+    color: white;
+}
